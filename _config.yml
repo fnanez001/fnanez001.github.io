@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Frank Nanez
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: CSCI-19
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.transparentpng.com%2Fcats%2Fgoku-1308.html&psig=AOvVaw2EwBireWQNwk-4rW7yO1rf&ust=1643228089779000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDUwuvbzfUCFQAAAAAdAAAAABAD
 
 #
 # Flags below are optional
@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/frank.nanez
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://github.com/fnanez001
+  instagram: https://www.instagram.com/frank.nanez/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/user/frankien32
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
