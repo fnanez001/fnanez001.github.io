@@ -3,9 +3,6 @@ layout: post
 title: Frank's CSCI-19 Blog
 ---
 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 Module 1: Introductory Networking
 Week 2, w/e 02/06/22
 
