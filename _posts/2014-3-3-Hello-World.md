@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Frank's CSCI-19 Blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Module 1: Introductory Networking
+Week 2, w/e 02/06/22
+
+In this module we went over the basics of the two network models. The OSI model and the TCP/IP models and the breakdown of how information is sent in regards to these two models. It also went over the OSI model is a more comprehensive model of the TCP/IP model and that it is used for educational purposes and to better understand the way information is sent and received. It also went over basic networking tools like ping, dig, and traceroute to get essential networking information and whast layers they operate in. We used ping and traceroute to get basic info like the IP address and the number of hops the packets take to get to the destination. Dig offered a ton more of info like all the registered information for a domain like address, length of registrar, emails for the domain, and other contact info.
