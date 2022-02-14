@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Enrolled at Butte Community College for IT certification. Had also tried programming classes as well as other genreal education. I have taken Japanese 1 and 2 classes as well.
 
 ### Contact me
 
